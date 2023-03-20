@@ -18,7 +18,7 @@ import time
 import random
 import json
 
-ENABLE_CONTROLS = True
+ENABLE_CONTROLS = False
 
 if ENABLE_CONTROLS is True:
     import RPi.GPIO as GPIO
